@@ -1,3 +1,3 @@
 # Finance-Dashboard
 
-React, Typescript, ReCharts, Express
+React, Typescript, ReCharts, Express, MongoDB
